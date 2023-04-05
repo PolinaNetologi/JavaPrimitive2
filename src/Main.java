@@ -4,7 +4,8 @@ public class Main {
         int initialBalance = 100;
         int addent = 1100;
 
-        int bonus = 11;
+        int bonus = 0;
+
 
         if (addent > 1000) {
             bonus = addent / 100;
